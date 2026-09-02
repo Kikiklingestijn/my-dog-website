@@ -1,6 +1,6 @@
 # my-dog-website
 <h1> Dit is een titel</h1>
 
-###subtitel 
+### Subtitel 
 
 Dit is een normale tekst
